@@ -18,26 +18,28 @@ The following Power BI reports have been created:
 - **Monthly Rainfall Distribution Over Mandals**
 - **Anomalies in Rainfall Over the Years**
 - **Seasonal Variation in Rainfall**
+- 🔍 **Rainfall Anomaly Detection**
 
 ### 2️⃣ Temperature Analysis
 - **Average Min / Max Temperature**
 - **Seasonal Variation by Mandals**
 - **Daily Temperature Range**
 - **Temperature Distribution by Years**
+- 🔍 **Temperature Anomaly Detection**
 
 ### 3️⃣ Humidity Analysis
 - **Average Min / Max Humidity per District**
 - **Seasonal Change in Mandals**
-- **Humidity Anomalies**
 - **Humidity Distribution by Years**
+- 🔍 **Humidity Anomaly Detection**
 
 ### 4️⃣ Wind Speed Analysis
 - **Average Min / Max Wind Speed per District**
 - **Wind Speed Patterns and Outliers**
 - **Average Min / Max Wind Speed by Years**
-- **Windspeed Anomalies**
 - **Windspeed Distribution by Years**
-
+- 🔍 **Windspeed Anomaly Detection**
+  
 ### 5️⃣ Final Consolidated Report
 This report brings together the most important and insightful visualizations from the above four analyses to present a high-level summary of weather trends in Telangana.
 
@@ -69,7 +71,7 @@ This project aims to:
 
 - Explore and visualize weather trends in Telangana over a 4-year span.
 - Identify seasonal and geographic patterns in rainfall, temperature, humidity, and wind speed.
-- Detect anomalies and outliers that may help in planning, agriculture, and climate response strategies.
+- Detect anomalies and outliers to support better planning and forecasting.
 - Deliver all insights through an interactive and easy-to-understand **Power BI dashboard**.
 
 ---
