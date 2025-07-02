@@ -78,7 +78,6 @@ This project aims to:
 
 ## 🔗 Connect with Me
 
-- 💻 GitHub: [github.com/shubham132004](https://github.com/shubham132004)
 - 💼 LinkedIn: [linkedin.com/in/shubham-parmar](https://www.linkedin.com/in/shubham-parmar-12164024a/)
 
 > For any questions or suggestions, feel free to connect or open an issue.
